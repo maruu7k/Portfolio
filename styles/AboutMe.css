@@ -26,7 +26,7 @@ p.about-text {
 }
 
 div.about-container {
-  background-image: url("/Images/about-me-image.svg"); /* Set the path to your background image */
+  background-image: url("../Images/about-me-image.svg"); /* Set the path to your background image */
   background-size: cover; /* Adjust the background size to cover the entire body */
   background-position: center; /* Center the background image */
   width: 80%;
